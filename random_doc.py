@@ -52,5 +52,9 @@ class BinaryNumber(list):
             index -= 1
         return BinaryNumber(new_bn)
 
+def test(sample):
+    if sample:
+        return true
 
-
+def add (num1, num2):
+    return num1 + num1
